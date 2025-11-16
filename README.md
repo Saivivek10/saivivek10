@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Sai Vivek Reddy</h1>
-<h3 align="center">A Passionate Full Stack Developer</h3>
+<h3 align="center">A Passionate Generative AI Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/2361e682f29dd5165f3a6ee20019ec078041b1577d3280af7c86e53178cdf5da/68747470733a2f2f616d70726f6e2e65752f77702d636f6e74656e742f75706c6f6164732f323031392f30312f636f64652d646576656c6f7065722e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saivivek10&label=Profile%20views&color=0e75b6&style=flat" alt="saivivek10" /> </p>
 
-- 🔭 I’m currently working on **Full Stack**
+- 🔭 I’m currently working on **Generative AI Engineer**
 
-- 🌱 I’m currently learning **Full Stack**
+- 🌱 I’m currently learning **Generative AI Engineer**
 
-- 📫 How to reach me **saivivekreddy100@gmail.com**
+- 📫 How to reach me **saivivekreddy17@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
